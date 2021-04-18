@@ -34,13 +34,13 @@
 </div>*@
 
     <div class="container">
-        
+
         <div class="row m-5">
             <div class="col-4">
                 <h2 style="text-align:center;font-weight:bold">Get A Quote</h2>
             </div>
             <div class="col-8">
-               
+
             </div>
         </div>
 
@@ -68,6 +68,15 @@
             </div>
             <div class="col-8">
                 @Html.TextBoxFor(m => m.email)
+            </div>
+        </div>
+
+        <div class="row m-3">
+            <div class="col-4" style="text-align:left">
+                @Html.LabelFor(m => m.phone)
+            </div>
+            <div class="col-8">
+                @Html.TextBoxFor(m => m.phone)
             </div>
         </div>
 

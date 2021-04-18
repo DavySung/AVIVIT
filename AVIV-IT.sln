@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVIV-IT", "AVI-IT\AVIV-IT.csproj", "{EDD3BA45-2435-4E84-9C78-72F18A26EDD4}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AVIVIT_Installer", "AVIVIT_Installer\AVIVIT_Installer.vdproj", "{52F553A0-B683-41F1-88F6-BFE944DEF291}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AVIV_IT_Installer", "AVIV_IT_Installer\AVIV_IT_Installer.vdproj", "{6B8724BB-8916-4F4B-B87E-F83F4FEA6528}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{EDD3BA45-2435-4E84-9C78-72F18A26EDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDD3BA45-2435-4E84-9C78-72F18A26EDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDD3BA45-2435-4E84-9C78-72F18A26EDD4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{52F553A0-B683-41F1-88F6-BFE944DEF291}.Debug|Any CPU.ActiveCfg = Debug
-		{52F553A0-B683-41F1-88F6-BFE944DEF291}.Release|Any CPU.ActiveCfg = Release
+		{6B8724BB-8916-4F4B-B87E-F83F4FEA6528}.Debug|Any CPU.ActiveCfg = Debug
+		{6B8724BB-8916-4F4B-B87E-F83F4FEA6528}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
